@@ -17,10 +17,10 @@ import internal.GlobalVariable as GlobalVariable
 
 void m2()
 {
-	
+	//sdfsdgfdgdgdf
 }
 
 void m3()
 {
-	
+	//stgrytfhfjghj
 }
