@@ -15,7 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 //C3
 
-void m1()
+void m2()
 {
 	
 }
